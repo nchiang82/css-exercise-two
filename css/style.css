@@ -5,6 +5,11 @@ body {
   line-height: 120%;
 }
 
+figcaption {
+  font-size: 14px;
+  line-height: 120%;
+  font-style: italic;
+}
 a {
   text-decoration: none;
 }
@@ -15,11 +20,14 @@ a:hover {
 
 h1 {
   font-size: 24px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
 h3 {
   font-size: 18px;
-  line-height: 100%
+  line-height: 100%;
+  padding-bottom: 30px;
 }
 
 p {
